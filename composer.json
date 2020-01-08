@@ -10,8 +10,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "pabloferrari\\testpackage\\": "src",
-      "pabloferrari\\testpackage\\validationDataGenericClass": "src"
+      "pabloferrari\\testpackage\\": "src"
     }
   },
   "require": {}
