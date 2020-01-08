@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Traits;
+namespace PabloFerrari\TestPackage;
 
 use Illuminate\Http\Exceptions\HttpResponseException;
 use Illuminate\Http\JsonResponse;
