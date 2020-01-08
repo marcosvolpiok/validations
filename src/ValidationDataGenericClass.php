@@ -9,7 +9,7 @@ use Illuminate\Validation\ValidationException;
 use App\Models\Recurso;
 use App\Models\Permiso;
 
-trait validationDataGenericClass
+trait ValidationDataGenericClass
 {
     public function validationDataGeneric()
     {
