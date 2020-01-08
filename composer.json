@@ -1,0 +1,17 @@
+{
+    "name": "pabloferrari/testpackage",
+    "description": "Validaciones basicas de metrotel",
+    "type": "repository",
+    "authors": [
+        {
+            "name": "Pablo Ferrari",
+            "email": "pablo.ferrari@me.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "pabloferrari\\testpackage\\": "src"
+        }
+    },
+    "require": {}
+}
