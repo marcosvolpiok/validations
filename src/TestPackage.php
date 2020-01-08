@@ -7,7 +7,7 @@ class TestPackage {
     public $message;
     
     public function __construct() {
-        $this->message = "It's work!";
+        $this->message = "Version 2!";
     }
 
 }
